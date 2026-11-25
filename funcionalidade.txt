@@ -1,1 +1,2 @@
 Minha nova funcionalidade
+Correção do erro de execução.
