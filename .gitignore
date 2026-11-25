@@ -1,0 +1,14 @@
+# Dependências
+venv/
+__pycache__/
+
+# Arquivos compilados
+*.pyc
+*.pyo
+
+# Variáveis de ambiente
+.env
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
